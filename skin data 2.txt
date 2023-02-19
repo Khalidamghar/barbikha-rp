@@ -82,7 +82,7 @@
     },
     "guideData": [
     {
-      "image_link": "[url=https://imgbb.com/][img]https://i.ibb.co/wYqxPPF/hqdefault5.jpg[/img][/url]",
+      "image_link": "https://iili.io/HG5PYcN.jpg",
       "title": "barbikha rp mod pack 1",
         "text_Content": "Barvikha RP, also known as "Barvikha Roleplay," is a popular game mode in the Grand Theft Auto V (GTA V) online community. It is a type of roleplaying game where players take on different personas and engage in various activities within the game. ",
         "text_Content_1": ""
@@ -92,7 +92,7 @@
       
     },
     {
-      "image_link": "[url=https://imgbb.com/][img]https://i.ibb.co/Y3nZdsx/hqdefault8.jpg[/img][/url]",
+      "image_link": "https://iili.io/HG5PAMv.jpg",
       "title": "barbikha rp mod pack 2",
         "text_Content": "The game mode has gained a significant following and has become a popular way for players to experience a different side of the game.",
         "text_Content_1": ""
@@ -102,7 +102,7 @@
       
     },
     {
-      "image_link": "[url=https://imgbb.com/][img]https://i.ibb.co/vBFVKzN/hqdefault12.jpg[/img][/url]",
+      "image_link": "https://iili.io/HG5PRPR.jpg",
       "title": "barbikha rp mod pack 3",
         "text_Content": "Barvikha RP takes place in a fictional town called Barvikha, which is a luxurious and wealthy community located in the outskirts of Moscow, Russia. ",
         "text_Content_1": ""
@@ -112,7 +112,7 @@
       
     }
     ,{
-      "image_link": "[url=https://imgbb.com/][img]https://i.ibb.co/Fw7DZSy/hqdefault16.jpg[/img][/url]",
+      "image_link": "https://iili.io/HG5PRPR.jpg",
       "title": "barbikha rp mod pack 4",
         "text_Content": "The game mode is heavily inspired by the real-life town of Barvikha, which is known for its high-end fashion boutiques, luxury cars, and expensive houses. The game mode allows players to live out their wildest fantasies of living the life of a wealthy individual in a high-end community.",
         "text_Content_1": ""
@@ -122,7 +122,7 @@
       
     },
     {
-      "image_link": "[url=https://imgbb.com/][img]https://i.ibb.co/xXNNVLH/hqdefault17.jpg[/img][/url]",
+      "image_link": "[https://iili.io/HG5PaSI.jpg",
       "title": "barbikha rp mod pack 5",
         "text_Content": "The gameplay in Barvikha RP is based on a set of rules and regulations that players must follow. ",
         "text_Content_1": ""
@@ -132,7 +132,7 @@
       
     },
     {
-      "image_link": "[url=https://ibb.co/P5SNq1f][img]https://i.ibb.co/64dmjDf/maxresdefault1.jpg[/img][/url]",
+      "image_link": "https://iili.io/HG5Pl9t.jpg",
       "title": "barbikha rp mod pack 6",
         "text_Content": "Players take on different roles within the community, such as business owners, police officers, and civilians. Each role has its own set of responsibilities and requirements, and players are expected to abide by them to maintain the realism of the game. For example, police officers must follow the law and ensure the safety of the community, while business owners must manage their businesses and maintain their financial status.",
         "text_Content_1": ""
@@ -142,7 +142,7 @@
       
     },
     {
-      "image_link": "[url=https://ibb.co/DWGh70d][img]https://i.ibb.co/9gw6qQP/maxresdefault2.jpg[/img][/url]",
+      "image_link": "https://iili.io/HG5P0AX.jpg",
       "title": "barbikha rp mod pack 7",
         "text_Content": "One of the key aspects of Barvikha RP is the economy. The game mode has its own economy, which is based on the supply and demand of goods and services within the community. ",
         "text_Content_1": ""
@@ -240,7 +240,7 @@
     },
     "skins": [
     {
-      "imageUrl": "[url=https://ibb.co/1s8Kp5m][img]https://i.ibb.co/rb4MLSw/maxresdefault3.jpg[/img][/url]",
+      "imageUrl": "https://iili.io/HG5PhKl.jpg",
       "title": "barbikha rp mod pack 1",
       "description": "to download This mod xx please click here."
        
@@ -249,7 +249,7 @@
       
     },
     {
-      "imageUrl": "[url=https://ibb.co/gZ9bKsr][img]https://i.ibb.co/TM2D3zw/maxresdefault4.jpg[/img][/url]",
+      "imageUrl": "https://iili.io/HG5PWP4.jpg",
       "title": "barbikha rp mod pack 2",
       "description": "to download This mod xx please click here."
        
@@ -257,7 +257,7 @@
       
     },
     {
-      "imageUrl": "[url=https://ibb.co/r2nV0B5][img]https://i.ibb.co/8gFHsyP/maxresdefault5.jpg[/img][/url]",
+      "imageUrl": "https://iili.io/HG5PEts.jpg",
       "title": "barbikha rp mod pack 3",
       "description": "Tto download This mod xx please click here."
        
@@ -265,7 +265,7 @@
       
     }
     ,{
-      "imageUrl": "[url=https://ibb.co/QCWVrkB][img]https://i.ibb.co/fn3W49R/maxresdefault6.jpg[/img][/url]",
+      "imageUrl": "https://iili.io/HG5PMoG.jpg",
       "title": "barbikha rp mod pack 4",
       "description": "to download This mod xx please click here."
        
@@ -274,34 +274,34 @@
       
     },
     {
-      "imageUrl": "[url=https://ibb.co/LSh8b5W][img]https://i.ibb.co/kK6xk1f/maxresdefault9.jpg[/img][/url]",
+      "imageUrl": "https://iili.io/HG5PwSS.jpg",
       "title": "barbikha rp mod pack 5",
       "description": "to download This mod xx please click here."
        
     },
     {
-      "imageUrl": "[url=https://ibb.co/whrgFXr][img]https://i.ibb.co/GQ3p4L3/maxresdefault11.jpg[/img][/url]",
+      "imageUrl": "https://iili.io/HG5PVVf.jpg",
       "title": "barbikha rp mod pack 6",
       "description": "to download This mod xx please click here."
      
     },
     {
-      "imageUrl": "[url=https://ibb.co/rsT0jBb][img]https://i.ibb.co/L5bRFTQ/maxresdefault12.jpg[/img][/url]",
+      "imageUrl": "https://iili.io/HG5Pjl2.jpg",
       "title": "barbikha rp mod pack 7",
       "description": "to download This mod xx please click here."
        
     }, {
-      "imageUrl": "[url=https://ibb.co/SQZFbLP][img]https://i.ibb.co/gvckNn3/maxresdefault13.jpg[/img][/url]g",
+      "imageUrl": "https://iili.io/HG5irIn.jpg",
       "title": "barbikha rp mod pack 8",
       "description": "to download This mod xx please click here."
        
     }, {
-      "imageUrl": "[url=https://ibb.co/n0PKN5h][img]https://i.ibb.co/59KJgfq/maxresdefault14.jpg[/img][/url]",
+      "imageUrl": "https://iili.io/HG5i6LG.jpg",
       "title": "barbikha rp mod pack 9",
       "description": "to download This mod xx please click here."
        
     }, {
-      "imageUrl": "[url=https://ibb.co/4Z7jqvw][img]https://i.ibb.co/QFf6gS7/maxresdefault10.jpg[/img][/url]",
+      "imageUrl": "https://iili.io/HG5i6LG.jpg",
       "title": "barbikha rp mod pack 10",
       "description": "to download This mod xx please click here."
        
